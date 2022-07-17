@@ -11,6 +11,10 @@
 # production
 /build
 
+# sublime project manager
+*.sublime-project
+*.sublime-workspace
+
 # misc
 .DS_Store
 .env.local
