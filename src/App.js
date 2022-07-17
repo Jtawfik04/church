@@ -1,14 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
 import CopticCalendar from './Components/Calendar.js';
-import Holidays from './Components/Holidays.js';
+import TestCard from './Components/TestCard.js';
 
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Holidays/>
+        <TestCard/>
         <CopticCalendar/>
       </header>
     </div>
